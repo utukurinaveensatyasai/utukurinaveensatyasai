@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Naveen! 👋
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **DSA, Python, C++ STL**
@@ -15,7 +15,7 @@
 - Data Science: **Pandas, NumPy, Matplotlib**
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🏆 [Kaggle](https://www.kaggle.com/yourusername)
-- 💻 [GitHub](https://github.com/yourusername)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/naveen-satya-s-a55453259/)
+- 🏆 [Kaggle](https://www.kaggle.com/naveensatyasai)
+- 💻 [GitHub](https://github.com/utukurinaveensatyasai)
 

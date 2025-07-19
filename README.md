@@ -17,18 +17,16 @@
 <span>[<kbd> <br> LeetCode <br> </kbd>](https://leetcode.com/u/utukurinaveensatyasai/)</span>
 <span>[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@utukurinaveensatyasai)</span>
 <span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
-<span>[<kbd> <br> Github Stats <br> </kbd>](#Github-Stats)</span>
 <span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
 
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages-tools-and-technologies-)</span>
-<span>[<kbd> <br> Quotes I Like <br> </kbd>](#%EF%B8%8F-dev-quote)</span>
 
 ---
 
 <table>
   <tr>
       <td><a href="https://github.com/utukurinaveensatyasai/"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-    <td><a href="https://www.linkedin.com/in/arvind-sharma-3884a2205/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="https://www.linkedin.com/in/utukuri-naveen-satya-s-a55453259/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:utukurinaveensatyasai@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
 </table>
@@ -66,27 +64,34 @@
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,py&theme=dark"></td>
+		<td><img height="40" src="https://skillicons.dev/icons?i=cpp,py&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,vite"></td>
+		<td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,vite"></td>
 	</tr>
 	<tr>
 		<td><strong>Design & UI</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=figma,notion&theme=dark"></td>
+		<td><img height="40" src="https://skillicons.dev/icons?i=figma,notion&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Database Technologies</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+		<td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Version Control</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+		<td><img height="40" src="https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Cloud Platforms</strong></td>
+		<td><img height="40" src="https://skillicons.dev/icons?i=aws,gcp&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Data Visualization Tools</strong></td>
-		<td><img height=40 src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" title="Tableau" style="background:#fff; padding:4px; border-radius:6px;"></td>
+		<td>
+			<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" title="Tableau" style="background:#fff; padding:4px; border-radius:6px;">
+		</td>
 	</tr>
 </table>
+
 
